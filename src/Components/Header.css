@@ -1,0 +1,75 @@
+.header {
+    padding-top: 5px;
+    padding-bottom: 10px;
+    background-color: #ffffff;
+}
+
+.header__mercari__img{
+    object-fit: contain;
+    height: 100px;
+    width: 180px;
+
+}
+
+.header__row1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.searchbar {
+    margin-left: 30px;
+
+}
+.header__searchbar{
+    width: 500px;
+    height: 30px;
+    background-color: #f5f5f5;
+    /*border: #3baef2;*/
+}
+
+.header_row2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header__two{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+
+}
+
+.header__three {
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+
+}
+.listIcon {
+    color: #ea352d !important;
+}
+
+.localOfferIcon {
+    margin-left: 10px;
+    color: #ea352d !important;
+}
+.notificationIcon {
+    color: lightgray !important;
+    margin-right: 5px;
+}
+.checkIcon {
+    color: lightgray !important;
+    margin-right: 5px;
+
+}
+.header__two > p {
+    margin-right: 10px;
+}
+.header__three > p {
+    margin-right: 10px;
+}
+.avatar {
+    margin-right: 5px;
+}

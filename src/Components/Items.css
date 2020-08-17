@@ -1,0 +1,26 @@
+.arrange__items {
+    background-color: #f5f5f5;
+}
+
+.recommended__title {
+    display: flex;
+    margin-left: 70px;
+    align-items: center;
+    /*background-color: #f5f5f5;*/
+    margin-top: 40px;
+    padding: 20px;
+
+}
+
+
+.display__items {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+
+
+}
+
+
+

@@ -1,0 +1,43 @@
+.itemComponents {
+    color: black;
+
+}
+
+.item__img {
+    /*padding: 5px;*/
+    width: 170px;
+    height: 170px;
+    object-fit: contain;
+
+}
+.item__card {
+    margin-top: 10px;
+    position: relative;
+    /*padding: 40px;*/
+    margin-bottom: 10px;
+    width: 170px;
+    height: 250px;
+    background-color: white;
+
+}
+
+.item__card > p {
+    position: absolute;
+    background-color: #6f4d3e;
+    width: 70px;
+    /*height: 25px;*/
+    color: white;
+    top: 140px;
+    left: 5px;
+    font-size: medium;
+}
+
+.item__card {
+    padding: 2px;
+    /*margin-top: 10px;*/
+    margin-top: 10px;
+    justify-items: center;
+    margin-right: 8px;
+    margin-left: 8px;
+
+}

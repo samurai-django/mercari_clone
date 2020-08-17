@@ -1,0 +1,30 @@
+.popular__category {
+    background-color: #ffffff;
+}
+.popular__category > Button {
+    padding: 8px;
+    background-color: lightgray;
+}
+
+.popular__category > h2 {
+    display: flex;
+    padding: 10px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.popular__category__button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.popular__category__button > Button {
+    background-color: #efefef;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
